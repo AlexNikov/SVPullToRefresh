@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.license  = 'MIT'
   s.summary  = 'Give pull-to-refresh to any UIScrollView with 1 line of code.'
   s.homepage = 'https://github.com/AlexNikov/SVPullToRefresh'
-  s.author   = { 'AlexNikov' }
+  s.author   = { 'AlexNikov'  => 'lexnikov@gmail.com' }
   s.source   = { :git => 'https://github.com/AlexNikov/SVPullToRefresh', :tag => s.version.to_s }
 
   s.description = 'SVPullToRefresh'
